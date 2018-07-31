@@ -1,0 +1,19 @@
+.next-style {
+    background-color: rgb(85, 85, 85);
+  }
+
+  .next-warn-style {
+    background-color: rgb(238, 25, 25);
+  }
+
+  .current-style{
+    background-color: rgb(71, 25, 238);
+  }
+
+  .current-warn-style{
+    background-color: rgb(233, 236, 12);
+  }
+
+  .current-done-style{
+    background-color: rgb(212, 208, 230);
+  }
